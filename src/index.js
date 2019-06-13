@@ -8,7 +8,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Write IATA code</h1>
+      <h1>Write airport IATA code</h1>
       <Select
         className="Select"
         getOptionValue={options => options["IATA code"]}
