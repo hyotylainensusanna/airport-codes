@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Select {
+  text-align: left;
+}
+.Select .code {
+  font-weight: bold;
+}
+.Select .country {
+  color: #999;
+}
